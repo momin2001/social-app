@@ -1,0 +1,12 @@
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Indie Flower', cursive;
+}
+.heading h1 {
+    color: rgb(7, 103, 7);
+}
+.subHeading {
+    color: rgb(119, 211, 119)
+}
